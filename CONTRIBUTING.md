@@ -80,3 +80,4 @@ Here's a simple template you can use:
 [security]: https://github.com/buildpacks/.github/blob/master/SECURITY.md
 [support]: https://github.com/buildpacks/.github/blob/master/SUPPORT.md
 [pull-request-process]: https://github.com/buildpacks/.github/blob/master/CONTRIBUTIONS.md#pull-request-process
+
